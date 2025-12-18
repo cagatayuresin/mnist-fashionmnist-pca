@@ -15,7 +15,6 @@ Bu proje, **Temel Bileşen Analizi (PCA)** yöntemini hem klasik MNIST hem de Fa
 
 - `pca-demo-1.ipynb`: MNIST (el yazısı rakamlar) üzerinde PCA uygulaması
 - `pca-demo-2-fashion-mnist.ipynb`: Fashion-MNIST (giysi görselleri) üzerinde PCA uygulaması
-- `pca-interactive-math.html`: PCA'nın matematiksel adımlarını canlı ve interaktif olarak gösteren HTML sunum aracı
 
 ## Özellikler
 
@@ -40,9 +39,8 @@ Bu proje, **Temel Bileşen Analizi (PCA)** yöntemini hem klasik MNIST hem de Fa
 
 ## Demo Ekran Görüntüleri
 
-- ![Fashion-MNIST PCA](docs/fashion-mnist-pca-demo.png)
-- ![MNIST PCA](docs/mnist-pca-demo.png)
-- ![PCA Matematiksel Sunum](docs/pca-math-html-demo.png)
+- ![Fashion-MNIST PCA](demo1.png)
+- ![MNIST PCA](demo2.png)
 
 ## Akademik Bilgi
 
